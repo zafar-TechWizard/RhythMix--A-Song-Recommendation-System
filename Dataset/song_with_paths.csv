@@ -1,0 +1,491 @@
+song,mood,tempo,song_path
+Sun Saathiya,	Romantic,95,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Gerua,	Romantic,78,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Gerua.mp3
+Balam Pichkari,	Energetic,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Balam Pichkari.mp3
+Tujh Mein Rab Dikhta Hai,	Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tujh Mein Rab Dikhta Hai.mp3
+Bulleya,	Energetic,142,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Tum Hi Ho (Unplugged),	Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Unplugged).mp3
+Muskurane,	Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane.mp3
+Subha Hone Na De (Remix),	Energetic,160,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Subha Hone Na De (Remix).mp3
+Tum Se Hi,	Calm,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Se Hi.mp3
+Agar Tum Saath Ho,	Sad,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Mile (Love Reprise),	Romantic,82,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Love Reprise).mp3
+Kabira (Encore),	Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabira (Encore).mp3
+Pal Pal Dil Ke Paas,	Romantic,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas.mp3
+Kaise Hua,	Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kaise Hua.mp3
+Ghar More Pardesiya,	Energetic,138,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ghar More Pardesiya.mp3
+Khuda Jaane (Reprise),	Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Khuda Jaane (Reprise).mp3
+Janam Janam (Reprise),	Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam (Reprise).mp3
+Rang Sharbaton Ka,	Romantic,96,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Rang Sharbaton Ka.mp3
+Tera Ban Jaunga (Reprise),	Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Reprise).mp3
+Shayad,     Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Shayad.mp3
+Tum Hi Aana,	Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Aana.mp3
+Tum Jo Aaye,	Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye.mp3
+Mera Naam Joker,	Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Mera Naam Joker.mp3
+Pal Pal Dil Ke Paas,	Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas.mp3
+Channa Mereya,	Sad,82,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Channa Mereya.mp3
+Tum Hi Ho,	Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi,	Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile,	Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara,	Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon,	Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta,	Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Sun Saathiya,	Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya,	Energetic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam,	Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho,	Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Malhari,	Energetic,140,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Malhari.mp3
+Tere Bina,	Reflective,64,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina.mp3
+Badtameez Dil,	Energetic,144,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Badtameez Dil.mp3
+Zingaat,	Energetic,114,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zingaat.mp3
+Lut Gaye,	Sad,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Lut Gaye.mp3
+Pachtaoge,	Sad,76,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pachtaoge.mp3
+Tera Ban Jaunga,	Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga.mp3
+Main Tera Hero,	Energetic,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Main Tera Hero.mp3
+Ghungroo,	Energetic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ghungroo.mp3
+Shukran Allah,	Upbeat,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Shukran Allah.mp3
+Dil Diyan Gallan,	Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Diyan Gallan.mp3
+Tum Hi Ho,	Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Malhari,	Energetic,148,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Malhari.mp3
+Sun Saathiya,	Upbeat,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Agar Tum Saath Ho,	Romantic,58,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tera Ban Jaunga,	Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga.mp3
+Jeene Laga Hoon,	Romantic,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Pachtaoge,	Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pachtaoge.mp3
+Zara Zara,	Romantic,88,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Bulleya,	Energetic,92,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Kabhi Kabhi Aditi,	Romantic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Badtameez Dil,	Energetic,140,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Badtameez Dil.mp3
+Tum Jo Aaye,	Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye.mp3
+Sun Saathiya,	Upbeat,95,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Jeene Laga Hoon,	Romantic,132,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Tum Hi Ho,	Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Agar Tum Saath Ho,	Romantic,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Main Tera Hero,	Energetic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Main Tera Hero.mp3
+Channa Mereya,	Sad,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Channa Mereya.mp3
+Zingaat,	Energetic,110,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zingaat.mp3
+Malhari,    Energetic,142,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Malhari.mp3
+Lut Gaye,	Sad,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Lut Gaye.mp3
+Janam Janam,	Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Pal Pal Dil Ke Paas,	Romantic,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas.mp3
+Ae Dil Hai Mushkil, Romantic,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Dil Hai Mushkil.mp3
+Chaiyya Chaiyya,    Energetic,135,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Chaiyya Chaiyya.mp3
+Kar Gayi Chull, Energetic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kar Gayi Chull.mp3
+Jai Ho, Upbeat,137,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jai Ho.mp3
+Jab Koi Baat Bigad Jaye, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jab Koi Baat Bigad Jaye.mp3
+Kahin To Hogi Woh, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kahin To Hogi Woh.mp3
+Dil Diyan Gallan, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Diyan Gallan.mp3
+Yeh Fitoor Mera, Romantic,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Fitoor Mera.mp3
+Tum Jo Aaye, Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye.mp3
+Tose Naina, Sad,62,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tose Naina.mp3
+Tere Bina, Reflective,64,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina.mp3
+Pee Loon, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pee Loon.mp3
+Yeh Ishq Hai, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Ishq Hai.mp3
+Tum Se Hi, Calm,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Se Hi.mp3
+Nadaan Parindey, Energetic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Nadaan Parindey.mp3
+Main Hoon Hero Tera, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Main Hoon Hero Tera.mp3
+Sun Saathiya, Upbeat,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Gulabi Aankhen, Romantic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Gulabi Aankhen.mp3
+Tera Ban Jaunga, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga.mp3
+Saudagar Sauda Kar, Energetic,140,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Saudagar Sauda Kar.mp3
+Aaj Kal Tere Mere Pyar Ke Charche, Upbeat,132,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Aaj Kal Tere Mere Pyar Ke Charche.mp3
+Tera Hone Laga Hoon, Romantic,108,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Hone Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Tum Hi Ho (Unplugged), Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Unplugged).mp3
+Hasi Ban Gaye, Reflective,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Hasi Ban Gaye.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Lat Lag Gayi, Energetic,125,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Lat Lag Gayi.mp3
+Chand Sifarish, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Chand Sifarish.mp3
+Tum Hi Aana, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Aana.mp3
+Muskurane, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane.mp3
+Janam Janam (Reprise), Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam (Reprise).mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Zehnaseeb, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zehnaseeb.mp3
+Shayad, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Shayad.mp3
+Yeh Jo Halka Halka Suroor Hai, Romantic,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Jo Halka Halka Suroor Hai.mp3
+Mere Haath Mein, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Mere Haath Mein.mp3
+Chak De India, Upbeat,137,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Chak De India.mp3
+Sun Zara, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Zara.mp3
+Zindagi Ke Safar Mein, Reflective,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zindagi Ke Safar Mein.mp3
+Kyun, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun.mp3
+Teri Ore, Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Teri Ore.mp3
+Jashn-e-Bahara, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jashn-e-Bahara.mp3
+Kabira, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabira.mp3
+Jab We Met, Upbeat,126,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jab We Met.mp3
+Raat Bhar, Romantic,92,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raat Bhar.mp3
+Tum Jo Aaye, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye.mp3
+Pee Loon (Remix), Energetic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pee Loon (Remix).mp3
+Tum Hi Ho (Remix), Energetic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Remix).mp3
+Sunn Raha Hai, Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sunn Raha Hai.mp3
+Tum Se Hi (Unplugged), Calm,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Se Hi (Unplugged).mp3
+Kaise Hua, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kaise Hua.mp3
+Ghar More Pardesiya, Energetic,138,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ghar More Pardesiya.mp3
+Tum Mile (Reprise), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Reprise).mp3
+Yeh Dooriyan, Sad,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Dooriyan.mp3
+Ae Mere Humsafar, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Mere Humsafar.mp3
+Dil To Pagal Hai, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil To Pagal Hai.mp3
+Sun Saathiya (Reprise), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Reprise).mp3
+Tum Hi Ho (Reprise), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Reprise).mp3
+Tera Ban Jaunga (Unplugged), Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Unplugged).mp3
+Tum Mile (Unplugged), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Unplugged).mp3
+Mera Mann, Romantic,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Mera Mann.mp3
+Jee Karda, Energetic,140,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jee Karda.mp3
+Tum Jo Aaye (Reprise), Romantic,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Reprise).mp3
+Tere Bina (Reprise), Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina (Reprise).mp3
+Bekhayali, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bekhayali.mp3
+Galliyan, Romantic,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Galliyan.mp3
+Soniye Hiriye, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Soniye Hiriye.mp3
+Humnava, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Humnava.mp3
+Tum Hi Ho Bandhu, Energetic,125,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho Bandhu.mp3
+Tera Ghata, Sad,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ghata.mp3
+Pee Loon (Unplugged), Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pee Loon (Unplugged).mp3
+Tum Mile (Love Reprise), Romantic,82,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Love Reprise).mp3
+Sun Saathiya (Reprise), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Reprise).mp3
+Kyun Aaj Kal Neend Kam Khwaab Jyada Hai, Romantic,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun Aaj Kal Neend Kam Khwaab Jyada Hai.mp3
+Kaise Hua (Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kaise Hua (Unplugged).mp3
+Naina, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Naina.mp3
+Phir Le Aaya Dil, Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Le Aaya Dil.mp3
+Tum Hi Ho (Acoustic), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Acoustic).mp3
+Muskurane (Unplugged), Reflective,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Unplugged).mp3
+Jeene Laga Hoon (Reprise), Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Reprise).mp3
+Challa, Energetic,110,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Challa.mp3
+Khuda Jaane, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Khuda Jaane.mp3
+Teri Meri, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Teri Meri.mp3
+Zara Zara, Romantic,88,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Yeh Tumhari Meri Baatein, Romantic,82,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Tumhari Meri Baatein.mp3
+Tera Hone Laga Hoon (Reprise), Romantic,78,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Hone Laga Hoon (Reprise).mp3
+Raabta (Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Unplugged).mp3
+Aashayein, Upbeat,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Aashayein.mp3
+Kabira (Reprise), Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabira (Reprise).mp3
+Tera Zikr, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Zikr.mp3
+Maiyya Yashoda, Upbeat,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Maiyya Yashoda.mp3
+Tere Sang Yaara, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Sang Yaara.mp3
+Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Saathiya.mp3
+Khairiyat, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Khairiyat.mp3
+Aaj Din Chadheya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Aaj Din Chadheya.mp3
+Tera Ban Jaunga (Unplugged), Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Unplugged).mp3
+Pal Pal Dil Ke Paas, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas.mp3
+Chhod Diya, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Chhod Diya.mp3
+Khuda Jaane (Reprise), Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Khuda Jaane (Reprise).mp3
+Sun Saathiya (Unplugged), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Unplugged).mp3
+Tum Hi Ho (Sad Version), Sad,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Sad Version).mp3
+Tum Jo Aaye (Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Unplugged).mp3
+Tum Mile (Calm Version), Calm,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Calm Version).mp3
+Jab Tak, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jab Tak.mp3
+Tum Hi Ho (Sad Piano Version), Sad,58,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Sad Piano Version).mp3
+Tere Bin, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bin.mp3
+Pee Loon (Acoustic), Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pee Loon (Acoustic).mp3
+Phir Bhi Tumko Chaahunga, Romantic,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Bhi Tumko Chaahunga.mp3
+Ae Zindagi Gale Laga Le, Calm,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Zindagi Gale Laga Le.mp3
+Tera Ban Jaunga (Acoustic), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Acoustic).mp3
+Agar Tum Saath Ho (Unplugged), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Unplugged).mp3
+Tum Hi Ho (Aashiqui 2), Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Aashiqui 2).mp3
+Pee Loon (Reprise), Romantic,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pee Loon (Reprise).mp3
+Maiyya Yashoda (Thumri), Calm,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Maiyya Yashoda (Thumri).mp3
+Phir Mohabbat, Reflective,78,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Mohabbat.mp3
+Tum Jo Aaye (Acoustic), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Acoustic).mp3
+Tu Jo Mila, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tu Jo Mila.mp3
+Kyun Na Mere, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun Na Mere.mp3
+Tum Hi Ho (MTV Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (MTV Unplugged).mp3
+Jeene Laga Hoon (Acoustic), Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Acoustic).mp3
+Tum Se Hi (Reprise), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Se Hi (Reprise).mp3
+Yeh Kya Hua, Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yeh Kya Hua.mp3
+Tera Ban Jaunga (Loveyatri), Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Loveyatri).mp3
+Jab Koi Baat Bigad Jaye (Jurassic Park Version), Reflective,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jab Koi Baat Bigad Jaye (Jurassic Park Version).mp3
+Pal Pal Dil Ke Paas (Unplugged), Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas (Unplugged).mp3
+Kahin Door Jab Din Dhal Jaye, Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kahin Door Jab Din Dhal Jaye.mp3
+Aahatein (Agnee), Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Aahatein (Agnee).mp3
+Phir Le Aaya Dil (Reprise), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Le Aaya Dil (Reprise).mp3
+Tera Yaar Hoon Main, Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Yaar Hoon Main.mp3
+Bolna, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bolna.mp3
+Tum Hi Ho (Spanish Version), Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Spanish Version).mp3
+Tum Mile (Sad Version), Sad,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Sad Version).mp3
+Muskurane (Unplugged), Reflective,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Unplugged).mp3
+Phir Kabhi, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Kabhi.mp3
+Kyun Rabba, Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun Rabba.mp3
+Jiyein Kyun, Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jiyein Kyun.mp3
+Raabta (Kehte Hain Khuda Ne), Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Kehte Hain Khuda Ne).mp3
+Raabta (Night In A Motel), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Night In A Motel).mp3
+Yahin Hoon Main, Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yahin Hoon Main.mp3
+Kahin To Hogi Woh (Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kahin To Hogi Woh (Unplugged).mp3
+Saibo, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Saibo.mp3
+Tera Hone Laga Hoon (Sad Version), Sad,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Hone Laga Hoon (Sad Version).mp3
+Tum Hi Aana (Unplugged), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Aana (Unplugged).mp3
+Yun Hi Chala Chal, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Yun Hi Chala Chal.mp3
+Ae Mere Humsafar (Baazigar), Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Mere Humsafar (Baazigar).mp3
+Tum Jo Aaye (Sad Version), Sad,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sad Version).mp3
+Iktara, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Iktara.mp3
+Tum Mile (Acoustic), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Acoustic).mp3
+Bol Do Na Zara, Romantic,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bol Do Na Zara.mp3
+Tum Hi Ho (English Remix), Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (English Remix).mp3
+Pal Pal Dil Ke Paas (Kishore Kumar), Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Pal Pal Dil Ke Paas (Kishore Kumar).mp3
+Dil Ibaadat, Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Ibaadat.mp3
+Kahin To, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kahin To.mp3
+Mann Ki Lagan, Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Mann Ki Lagan.mp3
+Kabira (MTV Unplugged), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabira (MTV Unplugged).mp3
+Zara Zara (Unplugged), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara (Unplugged).mp3
+Tum Jo Aaye (Unplugged), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Unplugged).mp3
+Jeene Laga Hoon (Unplugged), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Unplugged).mp3
+Tum Mile (Chillout Mix), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Chillout Mix).mp3
+Agar Tum Saath Ho (Piano Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Piano Version).mp3
+Tera Ban Jaunga (Piano Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Piano Version).mp3
+Tum Hi Ho (Flute Version), Calm,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Flute Version).mp3
+Soch Na Sake, Calm,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Soch Na Sake.mp3
+Tum Mile (Love Reprise - Piano Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Love Reprise - Piano Version).mp3
+Tum Hi Ho (Santoor Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Santoor Version).mp3
+Bol Do Na Zara (Acoustic), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bol Do Na Zara (Acoustic).mp3
+Tum Se Hi (Flute Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Se Hi (Flute Version).mp3
+Tum Jo Aaye (Piano Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Piano Version).mp3
+Jeene Laga Hoon (Piano Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Piano Version).mp3
+Tum Mile (Acoustic - Piano Version), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Acoustic - Piano Version).mp3
+Tum Hi Ho (Guitar Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Guitar Version).mp3
+Tum Jo Aaye (Guitar Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Guitar Version).mp3
+Tera Ban Jaunga (Guitar Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Guitar Version).mp3
+Tum Mile (Violin Version), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Violin Version).mp3
+Jeene Laga Hoon (Violin Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Violin Version).mp3
+Tum Hi Ho (Tabla Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Tabla Version).mp3
+Tum Jo Aaye (Tabla Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Tabla Version).mp3
+Tum Mile (Tabla Version), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Tabla Version).mp3
+Jeene Laga Hoon (Tabla Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Tabla Version).mp3
+Tum Hi Ho (Sitar Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Sitar Version).mp3
+Tum Jo Aaye (Sitar Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sitar Version).mp3
+Tum Mile (Sitar Version), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Sitar Version).mp3
+Jeene Laga Hoon (Sitar Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Sitar Version).mp3
+Tum Hi Ho (Harmonica Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Harmonica Version).mp3
+Tum Jo Aaye (Harmonica Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Harmonica Version).mp3
+Tum Mile (Harmonica Version), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Harmonica Version).mp3
+Jeene Laga Hoon (Harmonica Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Harmonica Version).mp3
+Tum Hi Ho (Piano and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Violin Duet).mp3
+Tum Jo Aaye (Piano and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Piano and Violin Duet).mp3
+Tum Mile (Piano and Violin Duet), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Piano and Violin Duet).mp3
+Jeene Laga Hoon (Piano and Violin Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Piano and Violin Duet).mp3
+Tum Hi Ho (Piano and Sitar Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Sitar Duet).mp3
+Tum Jo Aaye (Piano and Sitar Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Piano and Sitar Duet).mp3
+Tum Mile (Piano and Sitar Duet), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Piano and Sitar Duet).mp3
+Jeene Laga Hoon (Piano and Sitar Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Piano and Sitar Duet).mp3
+Tum Hi Ho (Guitar and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Guitar and Flute Duet).mp3
+Tum Jo Aaye (Guitar and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Guitar and Flute Duet).mp3
+Tum Mile (Guitar and Flute Duet), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Guitar and Flute Duet).mp3
+Jeene Laga Hoon (Guitar and Flute Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Guitar and Flute Duet).mp3
+Tum Hi Ho (Flute and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Flute and Violin Duet).mp3
+Tum Jo Aaye (Flute and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Flute and Violin Duet).mp3
+Tum Mile (Flute and Violin Duet), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Flute and Violin Duet).mp3
+Tum Jo Mile, Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Mile.mp3
+Tum Mile (Saxophone Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Saxophone Version).mp3
+Tum Hi Ho (Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Rendition).mp3
+Tum Jo Aaye (Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Rendition).mp3
+Tera Ban Jaunga (Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Rendition).mp3
+Jeene Laga Hoon (Rendition), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Rendition).mp3
+Tum Mile (Piano Rendition), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Piano Rendition).mp3
+Tum Hi Ho (Sitar Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Sitar Rendition).mp3
+Tum Jo Aaye (Flute Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Flute Rendition).mp3
+Tera Ban Jaunga (Guitar Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Guitar Rendition).mp3
+Jeene Laga Hoon (Violin Rendition), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Violin Rendition).mp3
+Tum Mile (Chillout Saxophone Mix), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Chillout Saxophone Mix).mp3
+Tum Hi Ho (Chillout Mix), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Chillout Mix).mp3
+Tum Jo Aaye (Chillout Version), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Chillout Version).mp3
+Tera Ban Jaunga (Chillout Mix), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Chillout Mix).mp3
+Jeene Laga Hoon (Chillout Version), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Chillout Version).mp3
+Tum Mile (Santoor Rendition), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Santoor Rendition).mp3
+Tum Hi Ho (Piano and Saxophone Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Saxophone Duet).mp3
+Tum Jo Aaye (Guitar and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Guitar and Violin Duet).mp3
+Tera Ban Jaunga (Flute and Piano Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Flute and Piano Duet).mp3
+Jeene Laga Hoon (Sitar and Flute Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Sitar and Flute Duet).mp3
+Tum Mile (Piano and Violin Rendition), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Piano and Violin Rendition).mp3
+Tum Hi Ho (Guitar and Sitar Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Guitar and Sitar Duet).mp3
+Tum Jo Aaye (Tabla and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Tabla and Flute Duet).mp3
+Tera Ban Jaunga (Saxophone and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Saxophone and Violin Duet).mp3
+Jeene Laga Hoon (Piano and Sitar Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Piano and Sitar Duet).mp3
+Tum Mile (Calm Saxophone Mix), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Calm Saxophone Mix).mp3
+Tum Hi Ho (Flute and Saxophone Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Flute and Saxophone Duet).mp3
+Tum Jo Aaye (Saxophone and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Saxophone and Violin Duet).mp3
+Tera Ban Jaunga (Piano and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Piano and Flute Duet).mp3
+Jeene Laga Hoon (Guitar and Violin Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Guitar and Violin Duet).mp3
+Tum Mile (Flute and Sitar Duet), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Flute and Sitar Duet).mp3
+Tum Hi Ho (Piano and Guitar Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Guitar Duet).mp3
+Tum Jo Aaye (Sitar and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sitar and Flute Duet).mp3
+Tera Ban Jaunga (Guitar and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Guitar and Violin Duet).mp3
+Jeene Laga Hoon (Saxophone and Piano Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Saxophone and Piano Duet).mp3
+Tum Mile (Chillout Saxophone Mix), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Chillout Saxophone Mix).mp3
+Tum Hi Ho (Piano Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano Rendition).mp3
+Tum Jo Aaye (Flute Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Flute Rendition).mp3
+Tera Ban Jaunga (Guitar Rendition), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Guitar Rendition).mp3
+Jeene Laga Hoon (Violin Rendition), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Violin Rendition).mp3
+Tum Mile (Chillout Saxophone Mix), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Chillout Saxophone Mix).mp3
+Tum Hi Ho (Piano and Saxophone Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Saxophone Duet).mp3
+Tum Jo Aaye (Guitar and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Guitar and Violin Duet).mp3
+Tera Ban Jaunga (Flute and Piano Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Flute and Piano Duet).mp3
+Jeene Laga Hoon (Sitar and Flute Duet), Calm,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Sitar and Flute Duet).mp3
+Tum Mile (Piano and Violin Rendition), Calm,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Piano and Violin Rendition).mp3
+Tum Hi Ho (Guitar and Sitar Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Guitar and Sitar Duet).mp3
+Tum Jo Aaye (Tabla and Flute Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Tabla and Flute Duet).mp3
+Tera Ban Jaunga (Saxophone and Violin Duet), Calm,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Saxophone and Violin Duet).mp3
+Judaai, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Judaai.mp3
+Tere Bina (Unplugged), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina (Unplugged).mp3
+Hasi Ban Gaye (Male Version), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Hasi Ban Gaye (Male Version).mp3
+Muskurane (Unplugged), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Unplugged).mp3
+Ae Dil Hai Mushkil (Title Track), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Dil Hai Mushkil (Title Track).mp3
+Kyun Na Hum Tum, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun Na Hum Tum.mp3
+Phir Le Aaya Dil, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Le Aaya Dil.mp3
+Jiya, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jiya.mp3
+Teri Meri Kahaani, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Teri Meri Kahaani.mp3
+Tera Chehra, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Chehra.mp3
+Aaj Phir Tum Pe, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Aaj Phir Tum Pe.mp3
+Tum Bin, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Bin.mp3
+Kabira (MTV Unplugged), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabira (MTV Unplugged).mp3
+Jiyein Kyun, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jiyein Kyun.mp3
+Channa Mereya (Unplugged), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Channa Mereya (Unplugged).mp3
+Humnava, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Humnava.mp3
+Tere Bina (Reprise), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina (Reprise).mp3
+Bhula Dena, Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bhula Dena.mp3
+Raabta (Unplugged), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Unplugged).mp3
+Tum Hi Ho (Sad Version), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Sad Version).mp3
+Jeene Laga Hoon (Sad Version), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Sad Version).mp3
+Tum Mile (Sad Version), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Sad Version).mp3
+Dil Ibaadat, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Ibaadat.mp3
+Agar Tum Saath Ho (Sad Version), Sad,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Sad Version).mp3
+Tum Jo Aaye (Sad Version), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sad Version).mp3
+Tum Hi Aana (Unplugged), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Aana (Unplugged).mp3
+Phir Mohabbat, Sad,76,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Phir Mohabbat.mp3
+Judaai (Reprise), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Judaai (Reprise).mp3
+Naina Da Kya Kasoor, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Naina Da Kya Kasoor.mp3
+Dil Sambhal Ja Zara, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Sambhal Ja Zara.mp3
+Hasi Ban Gaye (Female Version), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Hasi Ban Gaye (Female Version).mp3
+Bekhayali (Acoustic), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bekhayali (Acoustic).mp3
+Tum Mile (Sad Guitar Version), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Sad Guitar Version).mp3
+Dil De Diya Hai (Unplugged), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil De Diya Hai (Unplugged).mp3
+Roke Na Ruke Naina, Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Roke Na Ruke Naina.mp3
+Kaise Hua (Reprise), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kaise Hua (Reprise).mp3
+Tum Jo Aaye (Piano Version), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Piano Version).mp3
+Mera Naam Joker (Sad Theme), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Mera Naam Joker (Sad Theme).mp3
+Main Tenu Samjhawan Ki (Sad Version), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Main Tenu Samjhawan Ki (Sad Version).mp3
+Tera Hone Laga Hoon (Sad Version), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Hone Laga Hoon (Sad Version).mp3
+Ae Watan (Female Version), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ae Watan (Female Version).mp3
+Kyun Maine Dil Toda, Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kyun Maine Dil Toda.mp3
+Tere Bin (Unplugged), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bin (Unplugged).mp3
+Naina (Dangal), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Naina (Dangal).mp3
+Tum Hi Ho (Unplugged), Sad,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Unplugged).mp3
+Tere Bina (Unplugged), Sad,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bina (Unplugged).mp3
+Tere Bin (Bas Ek Pal), Sad,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tere Bin (Bas Ek Pal).mp3
+Jeene Laga Hoon (Sad Guitar Version), Sad,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Sad Guitar Version).mp3
+Dil Ibaadat (Rock), Sad,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Dil Ibaadat (Rock).mp3
+Sun Saathiya, Romantic,95,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Malhari (Unplugged), Energetic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Malhari (Unplugged).mp3
+Tum Mile (Chillout Mix), Reflective,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Chillout Mix).mp3
+Tum Hi Ho (Rock Version), Energetic,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Rock Version).mp3
+Sun Saathiya (Unplugged), Upbeat,95,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Unplugged).mp3
+Tum Jo Aaye (Rock Version), Energetic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Rock Version).mp3
+Jeene Laga Hoon (Dance Mix), Upbeat,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Dance Mix).mp3
+Raabta (Remix), Energetic,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Remix).mp3
+Tum Hi Ho (Electro Mix), Energetic,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Electro Mix).mp3
+Ghar More Pardesiya (Club Mix), Upbeat,138,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Ghar More Pardesiya (Club Mix).mp3
+Tum Mile (Electronic Remix), Upbeat,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Electronic Remix).mp3
+Channa Mereya (EDM Mix), Upbeat,110,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Channa Mereya (EDM Mix).mp3
+Sun Saathiya (Remix), Upbeat,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Remix).mp3
+Bulleya (Dubstep Version), Energetic,92,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya (Dubstep Version).mp3
+Tum Hi Ho (Trap Remix), Energetic,100,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Trap Remix).mp3
+Janam Janam (Dance Mix), Upbeat,120,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam (Dance Mix).mp3
+Agar Tum Saath Ho (Club Mix), Upbeat,128,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Club Mix).mp3
+Tum Jo Aaye (Electronic Mix), Upbeat,110,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Electronic Mix).mp3
+Tera Ban Jaunga (Reggae Remix), Upbeat,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Reggae Remix).mp3
+Tum Hi Ho (Chillstep Mix), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Chillstep Mix).mp3
+Muskurane (Soulful Mix), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Soulful Mix).mp3
+Sun Saathiya (Jazz Fusion), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Jazz Fusion).mp3
+Tum Jo Aaye (Acoustic Mix), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Acoustic Mix).mp3
+Bulleya (Sufi Fusion), Reflective,85,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya (Sufi Fusion).mp3
+Tum Hi Ho (Symphony Orchestra), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Symphony Orchestra).mp3
+Jeene Laga Hoon (Piano Rendition), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Piano Rendition).mp3
+Raabta (Flute and Guitar Duet), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Flute and Guitar Duet).mp3
+Tum Mile (Acoustic Version), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Acoustic Version).mp3
+Tum Jo Aaye (Saxophone Rendition), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Saxophone Rendition).mp3
+Tera Ban Jaunga (Violin Mix), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Violin Mix).mp3
+Tum Hi Ho (Harmonica Version), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Harmonica Version).mp3
+Jeene Laga Hoon (Flute Rendition), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Flute Rendition).mp3
+Agar Tum Saath Ho (Guitar Mix), Reflective,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Guitar Mix).mp3
+Tum Jo Aaye (Piano and Violin Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Piano and Violin Duet).mp3
+Tum Hi Ho (Acoustic Guitar Solo), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Acoustic Guitar Solo).mp3
+Muskurane (Cello and Piano Duet), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Cello and Piano Duet).mp3
+Sun Saathiya (R&B Remix), Reflective,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (R&B Remix).mp3
+Tum Jo Aaye (Sitar and Tabla Fusion), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sitar and Tabla Fusion).mp3
+Tera Ban Jaunga (Acoustic Ballad), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Acoustic Ballad).mp3
+Jeene Laga Hoon (Guitar Solo), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Guitar Solo).mp3
+Tum Mile (Vocal Harmony), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Vocal Harmony).mp3
+Tum Hi Ho (Jazz Ensemble), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Jazz Ensemble).mp3
+Raabta (Piano Rendition), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Piano Rendition).mp3
+Tum Jo Aaye (Saxophone and Guitar Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Saxophone and Guitar Duet).mp3
+Tera Ban Jaunga (String Quartet), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (String Quartet).mp3
+Jeene Laga Hoon (Vocal Percussion), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Vocal Percussion).mp3
+Agar Tum Saath Ho (Chillout Mix), Reflective,65,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho (Chillout Mix).mp3
+Tum Jo Aaye (Harp and Flute Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Harp and Flute Duet).mp3
+Tum Hi Ho (Piano and Violin Ensemble), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Piano and Violin Ensemble).mp3
+Muskurane (Acoustic Ballad), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Muskurane (Acoustic Ballad).mp3
+Sun Saathiya (Soulful Mix), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya (Soulful Mix).mp3
+Tum Jo Aaye (Flute and Piano Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Flute and Piano Duet).mp3
+Tera Ban Jaunga (Chillstep Remix), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Chillstep Remix).mp3
+Jeene Laga Hoon (Orchestral Arrangement), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Orchestral Arrangement).mp3
+Tum Mile (Harp and Violin Ensemble), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Harp and Violin Ensemble).mp3
+Tum Hi Ho (Soulful Mix), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Soulful Mix).mp3
+Raabta (Harmonica and Guitar Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Harmonica and Guitar Duet).mp3
+Tum Jo Aaye (Sitar and Flute Fusion), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Sitar and Flute Fusion).mp3
+Tera Ban Jaunga (Piano Rendition), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Piano Rendition).mp3
+Jeene Laga Hoon (Chillout Mix), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Chillout Mix).mp3
+Tum Mile (Jazz Fusion), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Jazz Fusion).mp3
+Tum Hi Ho (Guitar and Piano Duet), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Guitar and Piano Duet).mp3
+Raabta (Sitar Rendition), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Sitar Rendition).mp3
+Tum Jo Aaye (Cello and Violin Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Cello and Violin Duet).mp3
+Tera Ban Jaunga (Guitar Solo), Reflective,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tera Ban Jaunga (Guitar Solo).mp3
+Jeene Laga Hoon (Vocal Percussion), Reflective,72,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon (Vocal Percussion).mp3
+Tum Mile (Acoustic Ballad), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile (Acoustic Ballad).mp3
+Tum Hi Ho (Jazz Ensemble), Reflective,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho (Jazz Ensemble).mp3
+Raabta (Piano Rendition), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta (Piano Rendition).mp3
+Tum Jo Aaye (Saxophone and Guitar Duet), Reflective,70,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Jo Aaye (Saxophone and Guitar Duet).mp3
+Sun Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho, Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Hi Ho, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Sun Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho, Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Hi Ho, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Sun Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho, Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Hi Ho, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Sun Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho, Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Hi Ho, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
+Sun Saathiya, Romantic,105,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Sun Saathiya.mp3
+Bulleya, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Bulleya.mp3
+Janam Janam, Romantic,68,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Janam Janam.mp3
+Agar Tum Saath Ho, Romantic,60,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Agar Tum Saath Ho.mp3
+Tum Hi Ho, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Hi Ho.mp3
+Kabhi Kabhi Aditi, Romantic,112,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Kabhi Kabhi Aditi.mp3
+Tum Mile, Romantic,80,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Tum Mile.mp3
+Zara Zara, Romantic,90,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Zara Zara.mp3
+Jeene Laga Hoon, Romantic,130,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Jeene Laga Hoon.mp3
+Raabta, Romantic,75,C:\Users\mdzaf\OneDrive\Desktop\Data science\Final\Song recommendation system\Extrafiles\Music\Raabta.mp3
